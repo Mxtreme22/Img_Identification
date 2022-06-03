@@ -1,0 +1,39 @@
+
+  h1{
+    color: whitesmoke;
+    font-size: 40px;
+    background-color: black;
+  }
+
+a:link {
+  color: #ff3e00;
+  font-size: 35px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 900;
+  background-color: white;
+}
+
+a:hover {
+    color: #ffee00;
+  }
+  
+  a:active {
+    color: #d900ff;
+  }
+  
+  a:visited {
+    color:  orange ;
+  
+   
+  }
+
+  button {
+  font-size: 25px;
+  color: blue;
+  box-shadow: #ffee00, 50cm;
+  
+  }
+
+  canvas {
+    margin-top: 200px;
+  }
